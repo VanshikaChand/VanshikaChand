@@ -6,7 +6,7 @@
 
 ## 🌼 Aspiring Cybersecurity Professional
 ### 💻 About Me
-- I'm a first-year B.Tech CSE student with a specialization in Cybersecurity. I’m passionate about learning how technology works, securing digital spaces, and continuously growing through coding, research, and real-world projects.
+- I’m a first-year B.Tech Computer Science student exploring the field of cybersecurity and its various domains. I’m passionate about learning how technology works, securing digital spaces, and continuously growing through coding, research, and real-world projects.
 
 ---
 
