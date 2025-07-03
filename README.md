@@ -11,9 +11,11 @@
 ---
 
 ### 🎯 Currently Working On
-- Building a Network Traffic Analysis Tool 🛡️
+- File Encryption and Decryption tool using C language
 - Learning Frontend Web Development (HTML, CSS, JavaScript)
-- Practicing C Programming and exploring Power BI
+- Practicing C Programming
+- MindVault — Emotional Secret Diary using Python
+
 
 ---
 
